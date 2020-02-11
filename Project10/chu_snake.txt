@@ -1,0 +1,7 @@
+ :SSSS  N    N    AAA    K  :K  EEEEEE
+:S:     N:N  N   A   A   K :K   E:
+  :SS:  N  N N  A:A:A:A  KKK    EEEEEE
+    :S: N   NN  A     A  K :K   E:
+ SSSS:  N    N  A     A  K  :K  EEEEEE
+
+             
